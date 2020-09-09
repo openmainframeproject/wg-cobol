@@ -1,5 +1,7 @@
- # _Working group name_
-Open Mainframe Project COBOL Working Group
+![](https://github.com/openmainframeproject/artwork/raw/master/working-groups/cobol-wg/cobol-wg-color.svg)
+
+# Open Mainframe Project COBOL Working Group
+
 It is generally felt by those close to the technology and supporting environment that COBOL has a part to play in a digital future, building upon the success of the past and its vitality in the present. This is true in the mainframe world, where COBOL prevails, and in distributed environments where it has a greater usage than most realize. 
 Establishing a working group of COBOL thought leaders and exponents that aims to address misunderstanding about the technology and promote its continued usage, learning and discourse
 Goals of the WG are:
@@ -13,26 +15,28 @@ Goals of the WG are:
 2.  Develop a preference for one platform over another.
 
 The TAC member sponsor of this working group is Len Santalucia.
+
 ## Deliverables
+
 Near term: an industry-wide roundtable with thought leaders in the COBOL space.
 Curricula for high schools, colleges, and universities for teaching COBOL.
 
 ## Communication
 This WG communicates on the following channels:
-- _link to mailing list_
-https://lists.openmainframeproject.org/g/wg-cobol
-- _slack channel_
-https://app.slack.com/client/T1BAJVCTY/C01549LK4F8
+- https://lists.openmainframeproject.org/g/wg-cobol
+- https://app.slack.com/client/T1BAJVCTY/C01549LK4F8
+- https://developer.ibm.com/technologies/cobol/
 
-- _any other channels_
-https://developer.ibm.com/technologies/cobol/
- ## Meetings
+## Meetings
 This WG meets the fourth Thursday of every month. 
- Zoom link:
-https://zoom.us/j/97677598233 
+
+Zoom link: https://zoom.us/j/97677598233 
 
 ## In-person meetings
+
 N/A for the foreseeable future.
- ## Meeting notes
-Meeting recordings and notes will be placed in a separate folder
+
+## Meeting notes
+
+Meeting recordings and notes are in the [meetings](meetings) folder
  
