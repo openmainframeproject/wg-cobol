@@ -1,3 +1,5 @@
-# WG Meeting notes
+# COBOL Working Group Meeting Repository
 
-All WG meeting notes are stored here in YYYY-MM-DD.md format. Recordings and other assets from conference calls systems can also be stored in YYYY-MM-DD.XXX format.
+All meeting notes for the COBOL Working Group are stored here in YYYY-MM-DD.md format. 
+
+Recordings and other assets from conference calls systems can also be stored in YYYY-MM-DD.XXX format.
