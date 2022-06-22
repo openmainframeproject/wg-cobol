@@ -21,11 +21,11 @@ Establishing a working group of COBOL thought leaders and exponents that aims to
 
 ## Committee
 
-| Position | Name |
-| ------------- | ------------- |
-| Chair | Cameron Seay  |
-| Co-Chair | Derek Britton |
-| TAC Sponsor | Len Santalucia |
+| Position | Name | Organization |
+| ------------- | ------------- | ------------- |
+| Chair | Cameron Seay | East Carolina University / Tennessee State University |
+| Co-Chair | Derek Britton | Micro Focus |
+| TAC Sponsor | Len Santalucia | Vicom Infinity |
 
 ## Deliverables
 
@@ -41,7 +41,7 @@ You can connect with the community in a variety of ways...
 
 ## Meetings
 
-The COBOL Working Group meeting is open for anyone interested in participating on the working group. Generally, meetings are scheduled virtually on the fourth Thursday of every month. 
+The COBOL Working Group meeting is open for anyone interested in participating on the working group. Generally, meetings are scheduled virtually on the fourth Thursday of every month at 18:30 UTC.
 
 To join, you will need to register for the meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/91473612203
 
